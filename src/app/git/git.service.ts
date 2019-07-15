@@ -22,7 +22,7 @@ export class GitService {
 
   constructor(private http: HttpClient) {
     console.log("GitService Ready");
-    // this.username = "Sijenn"
+     this.username = "Sijenn"
   }
 
   updateUser(username: string) {
