@@ -1,28 +1,32 @@
-@import url('https://fonts.googleapis.com/css?family=Bubbler+One|Dosis|Imprima|Pacifico|Poiret+One|Raleway|Snippet|Text+Me+One');
-
-/*
-font-family: 'Snippet', sans-serif;
-font-family: 'Text Me One', sans-serif;
-font-family: 'Bubbler One', sans-serif;
-font-family: 'Imprima', sans-serif;
-font-family: 'Poiret One', cursive;
-font-family: 'Pacifico', cursive;
-font-family: 'Dosis', sans-serif;
-font-family: 'Raleway', sans-serif;
-*/
-*{
-  font-family: 'Raleway', sans-serif;
-  
+/* @import url('https://fonts.googleapis.com/css?family=Bubbler+One|Dosis|Imprima|Pacifico|Poiret+One|Raleway|Snippet|Text+Me+One'); */
+ 
+@import url(https://fonts.googleapis.com/css?family=Kumar+One+Outline&display=swap);
+ *{
+  box-sizing:border-box;
+  margin:0;
+  padding:0;
+  transition:all .4s ease;
+  -webkit-transition:all .4s ease;
+  -moz-transition:all .4s ease;
+  -ms-transition:all .4s ease;
+  -o-transition:all .4s ease;
+} 
+html{
+  scroll-behavior:smooth
 }
 body{
-  background: linear-gradient( to right, #f2ffe6,#ffffff, #e6f9ff);
+  color:#fff;background:url(https://www.toptal.com/designers/subtlepatterns/patterns/darkness.png) fixed,fixed #141414
 }
-.card{
-font-family: 'Poiret One', cursive;
-font-size: 1.3em;
-border-radius: 7px 54px 7px 54px;
-box-shadow:  0px 2px 25px -2px #cccccc;
-border-left: 10px solid #ccffcc;
-border-bottom: 5px solid;
-border-bottom-color: #b3ecff;
-}
+ a{
+  text-decoration:none
+} 
+/* 
+
+.repo{
+  background-image: url(./assets/repo2.jpg)
+} 
+ .user{
+  background-image: url(./assets/repo.jpeg);
+  background-repeat: no-repeat;
+  height: 1000px;
+}   */
