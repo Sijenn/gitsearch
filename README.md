@@ -17,24 +17,25 @@ The site welcomes you with a simple but styled u.i, with a navbar, search form  
 - Repositories will be listed in card below.
 - click on interested repository in result to go to users repo.
 
-### What we used
-This site was build using  
-1. `HTML`
-2. `CSS`
-3. `JavaScript`
-4. `jQuery`
-5. `Bootstrap`.
-6. `Angular 5`
-7. `TypeScript`
+### Technologies used
+This site was build using :
+``` 
+ HTML
+ CSS
+ JavaScript
+jQuery
+ Bootstrap
+ Angular 5
+TypeScript
+```
 
-
-Click [here](https://samngigi.github.io/GitSearch/) to see the site.
+## Project live site
 
 ------------
 
 #### Credits
 
-Sam Ngigi
+
 ------------
 
 License
